@@ -8,7 +8,7 @@
           <a class="nav-link" href="#">add</a>
         </li>
         <li class="nav-item" @click="goInfo">
-          <a class="nav-link" href="#">Info</a>
+          <a class="nav-link" href="#">InfoUsuario</a>
         </li>
       </ul>
     </div>
